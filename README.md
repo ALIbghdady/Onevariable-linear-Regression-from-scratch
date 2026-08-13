@@ -15,7 +15,7 @@ Features
 
 Dataset
 
-The model uses a house price dataset with:
+The model uses a house price dataset from kaggle with:
 
 - Square Footage
 
@@ -52,7 +52,6 @@ The model learns a best-fit line for the relationship between Square Footage and
 
 ![The Best Fit Line](data_bestfut.png)
 
-Cost vs Iterations
 
 ![Cost vs Iterations](cost.png)
 
