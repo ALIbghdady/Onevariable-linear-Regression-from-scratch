@@ -50,10 +50,10 @@ Results
 
 The model learns a best-fit line for the relationship between Square Footage and House Price.
 
-![The Best Fit Line](data_bestfut.png)
-
-
 ![Cost vs Iterations](cost.png)
+
+![The Best Fit Line](data_bestfit.png)
+
 
 Technologies
 
